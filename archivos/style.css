@@ -1,0 +1,53 @@
+.encabezado{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(236, 12, 236);
+    width: 100%;
+    color: rgb(66, 71, 75);
+    align-items: flex-start;
+}
+.img1{
+    width: 50%;
+    height: 10%;
+}
+
+.logo_face, .insta,.wp,.yt{
+    width: 30%;
+}
+.redes{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.caja_boton{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(117, 23, 205);
+}
+.gif_1, .gif_2,.frasemia{
+    width: 30%;
+}
+.bloque{
+display: flex;
+justify-content: center;
+background-color: rgb(9, 9, 9);
+border: 5px solid rgb(240, 13, 13);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+text-align: center;
+}
+.descripcion{
+    background-color: khaki;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
